@@ -1,4 +1,4 @@
-# Analise da base de dados de produções da Netflix, entre o periodo de 2008 - 2021
+# Analise da base de dados de produções disponibilizadas na Netflix
 
 ![image](https://github.com/user-attachments/assets/b459d293-3ee0-4e3f-ba8b-0d61fc66ef2c)
 
